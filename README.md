@@ -13,7 +13,15 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 Using Tableau we created worksheets, dashboards and a story to visualize our data analysis outcomes, and to provide some recommendations for our potential investors. You can find the story that presents our analysis using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
 
 
+
+
+
+
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Customers%20Characteristics.png" width=50% height=40%>
+
+
+
+
 The data presented shows the total count of rides per user type and customer gender breakdown. More than 3/4 of the users are subscribers which indicates that there’s a big number of users who trust the service provided and use it frequently. The male gender count is dominant, 2 times over the female user count, and the unknown or undefined gender count is around half of the female gender user count. 
 
 
