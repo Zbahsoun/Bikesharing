@@ -1,6 +1,6 @@
 # NYC CitiBike Data Analysis
 
-## Overview of the Project:
+## Overview of the Project
 
 The purpose of this project is to analyze the bikeshare data from CitiBike in New York. We will be sharing our findings with investors who are looking to begin a CitiBike program in Des Moines. Below are the main keys discussed in this presentation:
 
@@ -8,9 +8,9 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 - Trip duration per user, as well as per gender.
 - Weekday trips per day, hour and gender.
 
-## Analyzing the Data:
+## Analyzing the Data
 
-We used the analytical tool Tableau to create worksheets, dashboards and a story to visualize our data analysis outcomes and provide some recommendations to our potential investors. You can find the Story presented via tableau using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
+Using Tableau we created worksheets, dashboards and a story to visualize our data analysis outcomes, and to provide some recommendations for our potential investors. You can find the story that presents our analysis using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
 
 
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Customers%20Characteristics.png" width=50% height=40%>
@@ -20,7 +20,7 @@ The data presented shows the total count of rides per user type and customer gen
 
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/August%20Peak%20Hours.png" width=50% height=50%>
 
-Since August is a beautiful time of the year to rent a bike, we want to use this data as a starting point to determine how many rides we could expect in the city of Des Moines.
+Since August is a beautiful time of the year to rent a bike, we want to use its data as a starting point to determine how many rides we could expect in the city of Des Moines.
 
 The bar chart shows the peak hours for the month of August are from 5 PM till 7 PM, this is the timeframe where users might be leaving their work and use the bike as transportation, it's also the time when the sun starts setting and the summer heat is more bearable to be outside. 
 
@@ -41,16 +41,16 @@ The highest number of users reaches over 1 million during the weekdays between 8
 
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png" width=50% height=50%>
 
-The below heatmap presents the most active day of the week for both males and females subscribers is on Thursday.while ----
+This heatmap presents the most active day of the week for both males and females subscribers which is Thursday. With Thursday having the highest number of users, we need to also highlight that most of the bikerides count is coming from male subscribers actively riding throughout the week. 
 
-## Results:
+## Results
 
 Bikeshare services are mostly used around morning and evening commute times, the number of male users is much higher than others, and a very large number of users ride the bike between 4-6 minutes.
 
 ### Recommendations:
 
-To have more insight on how to improve the CitiBike service, and a better understanding of the user’s needs:
+To have more insight on how to improve the CitiBike service, and to have a better understanding of the user’s needs:
 
 - Track the starting and ending point/location of each bike ride, this way we can have a better understanding on how to improve our stations and services in relation to the area.
-- 
 
+- Have an insight about the user's age, this plays a big role in understanding our users, furthermore meet their needs. We highly focused our analysis on the gender usage, it is time to focus on the age range of these users.
