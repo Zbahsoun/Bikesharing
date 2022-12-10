@@ -10,7 +10,7 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 
 ### Purpose
 
-We used the analytical tool Tableau to create worksheets, dashboards and a story to visualize our data analysis outcomes and provide some recommendations to our potential investors. You can find the Story presented via tableau using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeStory?publish=yes). 
+We used the analytical tool Tableau to create worksheets, dashboards and a story to visualize our data analysis outcomes and provide some recommendations to our potential investors. You can find the Story presented via tableau using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
 
 ### Analyzing the Data
 
