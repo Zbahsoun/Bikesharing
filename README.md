@@ -10,7 +10,7 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 
 ## Analyzing the Data
 
-Using Tableau we created worksheets, dashboards and a story to visualize our data analysis outcomes, and to provide some recommendations for our potential investors. You can find the story that presents our analysis using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
+Using Tableau we created worksheets, dashboards and a story to visualize our data analysis outcomes, and to provide some recommendations for our potential investors. You can find the story that presents our analysis using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes).
 
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Customers%20Characteristics.png" width=50% height=40%>
 
