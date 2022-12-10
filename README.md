@@ -1,6 +1,6 @@
 # NYC CitiBike Data Analysis
 
-## Overview of the Project
+## Overview of the Project:
 
 The purpose of this project is to analyze the bikeshare data from CitiBike in New York. We will be sharing our findings with investors who are looking to begin a CitiBike program in Des Moines. Below are the main keys discussed in this presentation:
 
@@ -8,11 +8,10 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 - Trip duration per user, as well as per gender.
 - Weekday trips per day, hour and gender.
 
-### Purpose
+## Analyzing the Data:
 
 We used the analytical tool Tableau to create worksheets, dashboards and a story to visualize our data analysis outcomes and provide some recommendations to our potential investors. You can find the Story presented via tableau using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeAnalysis?publish=yes). 
 
-### Analyzing the Data
 
 <img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Customers%20Characteristics.png" width=50% height=40%>
 
@@ -25,18 +24,31 @@ Since August is a beautiful time of the year to rent a bike, we want to use this
 
 The bar chart shows the peak hours for the month of August are from 5 PM till 7 PM, this is the timeframe where users might be leaving their work and use the bike as transportation, it's also the time when the sun starts setting and the summer heat is more bearable to be outside. 
 
-<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png" width=50% height=50%><img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png" width=50% height=50%>
+
+<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png" width=50% height=50%>
+<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png" width=50% height=50%>
 
 
-These two line graphs show the count peak between 140K and 150K users for around 4 to 6 minutes trip duration and then the count drops gradually to reach around 1K users riding the bike for around an hour. As mentioned earlier, the number of male users is much higher than female and unknown gender users.  
- 
-The highest number of users reaches over 1 million during the weekdays between 8 AM to 9 AM, and 5PM to 7 PM, while the heavy bike usage during the weekend is between 11AM and 1PM, dominated by male gender users. 
-The below heatmap presents the most active day of the week for both males and females subscribers is on Thursday.
+These two line graphs show the count peak between 140K and 150K users for around 4 to 6 minutes trip duration and then the count drops gradually to reach around 1K users riding the bike for around an hour. As mentioned earlier, the number of male users is much higher than female and unknown gender users. 
 
-### Results
+
+<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20Hour.png" width=50% height=50%>
+<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/Trips%20by%20Gender(Weekday%20per%20Hour).png" width=50% height=50%>
+
+
+The highest number of users reaches over 1 million during the weekdays between 8 AM to 9 AM, and 5PM to 7 PM, while the heavy bike usage during the weekend is between 11AM and 1PM, dominated by male gender users.
+
+
+<img src="https://github.com/Zbahsoun/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png" width=50% height=50%>
+
+The below heatmap presents the most active day of the week for both males and females subscribers is on Thursday.while ----
+
+## Results:
+
 Bikeshare services are mostly used around morning and evening commute times, the number of male users is much higher than others, and a very large number of users ride the bike between 4-6 minutes.
 
-### Recommendations
+### Recommendations:
+
 To have more insight on how to improve the CitiBike service, and a better understanding of the user’s needs:
 
 - Track the starting and ending point/location of each bike ride, this way we can have a better understanding on how to improve our stations and services in relation to the area.
