@@ -12,7 +12,11 @@ The purpose of this project is to analyze the bikeshare data from CitiBike in Ne
 
 We used the analytical tool Tableau to create worksheets, dashboards and a story to visualize our data analysis outcomes and provide some recommendations to our potential investors. You can find the Story presented via tableau using this [link](https://public.tableau.com/app/profile/zeinab.bahsoun/viz/Bikesharing_16700573951020/NYCCitiBikeStory?publish=yes). 
 
-### The Data
+### Analyzing the Data
+
+![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%203.png)
+
+
 
 The data presented below shows the total count of rides per user type and customer gender breakdown. More than 3/4 of the users are subscribers which indicates that there’s a big number of users who trust the service provided and use it frequently. The male gender count is dominant, 2 times over the female user count, and the unknown or undefined gender count is around half of the female gender user count. 
 Since August is a beautiful time of the year to rent a bike, we want to use this data as a starting point to determine how many rides we could expect in the city of Des Moines.
