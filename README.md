@@ -14,8 +14,7 @@ We used the analytical tool Tableau to create worksheets, dashboards and a story
 
 ### Analyzing the Data
 
-![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%203.png)
-
+![This is an image](https://github.com/Zbahsoun/bikesharing/blob/main/Images/Customers%20Characteristics.png)
 
 
 The data presented below shows the total count of rides per user type and customer gender breakdown. More than 3/4 of the users are subscribers which indicates that there’s a big number of users who trust the service provided and use it frequently. The male gender count is dominant, 2 times over the female user count, and the unknown or undefined gender count is around half of the female gender user count. 
